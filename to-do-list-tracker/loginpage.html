@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admission Form</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 40px;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .form-group {
+            margin-bottom: 16px;
+            width: 100%;
+            max-width: 300px;
+        }
+        label {
+            margin-bottom: 6px;
+            display: block;
+        }
+        input[type="text"], input[type="date"] {
+            width: 100%;
+            padding: 8px;
+            font-size: 1rem;
+            border-radius:6px;
+            background-color:rgb(247, 247, 247);
+        }
+        input[type="submit"] {
+            padding: 10px 22px;
+            font-size: 1rem;
+            
+            margin-top: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img src="OIP (6).webp" alt="Logo" style="width: 200px;">
+        <form>
+            <div class="form-group">
+                <label for="admission-number">Admission Number</label>
+                <input type="text" id="admission-number" name="admission-number" required>
+            </div>
+            <div class="form-group">
+                <label for="dob">Date of Birth</label>
+                <input type="date" id="dob" name="dob" required>
+            </div>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+
+</html>
