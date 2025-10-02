@@ -1,0 +1,62 @@
+[
+  {
+    "name": "ABES",
+    "location": "Ghaziabad",
+    "Course": "B.Tech",
+    "student": [
+      { "name": "Abhi" },
+      { "name": "Aditiya" },
+      { "name": "Abby" }
+    ]
+  },
+  {
+    "name": "KIET",
+    "location": "Ghaziabad",
+    "Course": "B.Tech",
+    "student": [
+      { "name": "Sumit" },
+      { "name": "Ritika" },
+      { "name": "Nikhil" }
+    ]
+  },
+  {
+    "name": "AKGEC",
+    "location": "Ghaziabad",
+    "Course": "B.Tech",
+    "student": [
+      { "name": "Ankur" },
+      { "name": "Poonam" },
+      { "name": "Raghav" }
+    ]
+  },
+  {
+    "name": "IPEC",
+    "location": "Ghaziabad",
+    "Course": "B.Tech",
+    "student": [
+      { "name": "Shivam" },
+      { "name": "Megha" },
+      { "name": "Kunal" }
+    ]
+  },
+  {
+    "name": "RKGIT",
+    "location": "Ghaziabad",
+    "Course": "B.Tech",
+    "student": [
+      { "name": "Varun" },
+      { "name": "Ishita" },
+      { "name": "Manish" }
+    ]
+  },
+  {
+    "name": "IMS",
+    "location": "Ghaziabad",
+    "Course": "B.Tech",
+    "student": [
+      { "name": "Ayush" },
+      { "name": "Tanya" },
+      { "name": "Deepak" }
+    ]
+  }
+]

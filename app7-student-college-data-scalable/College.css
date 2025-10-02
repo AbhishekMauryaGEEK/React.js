@@ -1,0 +1,29 @@
+.college-card {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  border: none;
+  color: #000000ff;
+  font-size:x-large;
+  box-shadow: 0 0 0 transparent;
+}
+
+.college-card:hover {
+  background-color: lightblue;
+  color: pink !important;
+  box-shadow: 0 0 18px 3px rgba(255, 255, 255, 0.9);
+}
+
+.college-card:hover * {
+  color: white !important;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.student-list {
+  padding-left: 20px;
+  margin: 0;
+  list-style: disc;
+  color: inherit;
+}
