@@ -2,6 +2,8 @@ import Pure from "./purereact";
 import { useState } from "react";
 import Lifting from "./lifting";
 import Dilift from "./delifting";
+import AnimatedHeading from "./smoth";
+import Changecity from "./changecity&adress";
 function App() {
   const[user,setuser]=useState('');
   const [users, setUsers] = useState([]);
@@ -36,6 +38,8 @@ function App() {
       <Pure />
       <Lifting setuser={setuser}/>
       <Dilift user={user}/>
+      <AnimatedHeading/>
+      <Changecity/>
     </div>
   );
 }
