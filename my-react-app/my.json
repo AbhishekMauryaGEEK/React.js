@@ -1,0 +1,49 @@
+{
+  "u": [
+    {
+      "name": "Sid Kumar1",
+      "class": "B.Tech CSE - 2nd Year",
+      "roll_no": "2023001",
+      "uni_number": "BIT2023001",
+      "marks_total": 850,
+      "place": "Bangalore",
+      "id": 1
+    },
+    {
+      "name": "Priya Sharma",
+      "class": "B.Tech CSE - 2nd Year",
+      "roll_no": "2023002",
+      "uni_number": "BIT2023002",
+      "marks_total": 920,
+      "place": "Delhi",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Rahul Patel",
+      "class": "B.Tech CSE - 2nd Year",
+      "roll_no": "2023003",
+      "uni_number": "BIT2023003",
+      "marks_total": 875,
+      "place": "Mumbai"
+    },
+    {
+      "id": 4,
+      "name": "Isha Verma",
+      "class": "B.Tech CSE - 2nd Year",
+      "roll_no": "2023004",
+      "uni_number": "BIT2023004",
+      "marks_total": 905,
+      "place": "Pune"
+    },
+    {
+      "id": 5,
+      "name": "Arjun Singh",
+      "class": "B.Tech CSE - 2nd Year",
+      "roll_no": "2023005",
+      "uni_number": "BIT2023005",
+      "marks_total": 765,
+      "place": "Chennai"
+    }
+  ]
+}
